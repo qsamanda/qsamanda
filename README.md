@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <i>cats & coffee & code & repeat. ↻ </i>
+  <i>ᴄᴀᴛs & ᴄᴏꜰꜰᴇᴇ & ᴄᴏᴅᴇ & ʀᴇᴘᴇᴀᴛ. ↻ </i>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <h2 align="center">
-☾ About Me
+✦ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 </h2>
 
 <p>
@@ -63,7 +63,7 @@ Exploring new languages and building projects to learn.
 </p>
 
 <h2 align="center">
-☾ Languages & Technologies
+✦ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 & 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
 </h2>
 
 <p>
@@ -86,7 +86,7 @@ Exploring new languages and building projects to learn.
 </p>
 
 <h2 align="center">
-☾ Learning
+✦ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
 </h2>
 
 <p>
@@ -121,11 +121,11 @@ Exploring new languages and building projects to learn.
 </p>
 
 <h2 align="center">
-☾ Find me in the darkness
+✦ 𝑭𝒊𝒏𝒅 𝒎𝒆 𝒊𝒏 𝒕𝒉𝒆 𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔
 </h2>
 
  <p align="center">
-  <img src="Gothic Cats Coding Under Moonlight.png" width="100%" alt="My black cat and tuxedo cat beneath a blood moon" />
+  <img src="Pixel Cats with Crescent Charms and Yarn.png" width="40%" alt="My black cat and tuxedo cat" />
 </p>
 
 <p align="center">
@@ -144,5 +144,5 @@ Exploring new languages and building projects to learn.
 ---
 
 <p align="center">
-  <i>Made with a lot of coffee.</i>
+  <i>ᴍᴀᴅᴇ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏꜰ ᴄᴏꜰꜰᴇᴇ.</i>
 </p>
