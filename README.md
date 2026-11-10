@@ -30,26 +30,22 @@
 </p>
 
 <h4 align="center">
-Hi! I'm Amanda and I'm 20 years old!
+Hi ! I'm Amanda and I'm 20 years old !
 </h4>
 <h4 align="center">
-I'm from Brazil and I'm a Software Engineering + Quality Management student!
+I'm from Brazil and I'm a Software Engineering + Quality Management student !
 </h4>
 <h4 align="center">
-I'm interest in Data Analysis, Quality Assurance & Automation!
+I'm interest in Data Analysis, Quality Assurance & Automation !
 </h4>
 <h4 align="center">
-Exploring new languages and building projects to learn.
+Learning Python !
 </h4>
 
 <p>
 ㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
-</p>
-
-<p align="center">
-  <i>☾ ⋆⁺₊⋆</i>
 </p>
 
 <p align="center">
@@ -79,39 +75,8 @@ Exploring new languages and building projects to learn.
   <img src="https://img.shields.io/badge/VBA-55565C?style=for-the-badge&logo=microsoftexcel&logoColor=D5C9CC" />
 </p>
 
-<p>
-ㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤ
-</p>
-
-<h2 align="center">
-✦ 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
-</h2>
-
-<p>
-ㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤ
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-55565C?style=for-the-badge&logo=python&logoColor=D5C9CC" />
-  <img src="https://img.shields.io/badge/SQL-55565C?style=for-the-badge&logoColor=D5C9CC" />
-</p>
-
-<p>
-ㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤ
-</p>
-
 <p align="center">
   <i>₍^. .^₎⟆</i>
-</p>
-
-<p align="center">
-༺━━━━━━━━━━━━༻
 </p>
 
 <p>
