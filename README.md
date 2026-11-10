@@ -2,7 +2,7 @@
 <!-- tentando fazer um perfil e tal -->
 
 <p align="center">
-  <img src="Gothic Moonlit Code and Cats.png" width="100%" alt="Amanda Queiroz - Dev & Quality" />
+  <img src="./assets/pixel_cats_banner.png" width="100%" alt="Amanda Queiroz - Dev & Quality" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Learning Python !
 </h2>
 
  <p align="center">
-  <img src="Pixel Cats with Crescent Charms and Yarn.png" width="40%" alt="My black cat and tuxedo cat" />
+  <img src="./assets/pixel_cats_playing.png" width="40%" alt="My black cat and tuxedo cat" />
 </p>
 
 <p align="center">
