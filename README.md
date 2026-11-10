@@ -2,7 +2,7 @@
 <!-- tentando fazer um perfil e tal -->
 
 <p align="center">
-  <img src="Gothic Cats and Crimson Moon Banner.png" width="100%" alt="Amanda Queiroz - Dev & Quality" />
+  <img src="Gothic Moonlit Code and Cats.png" width="100%" alt="Amanda Queiroz - Dev & Quality" />
 </p>
 
 <h3 align="center">
@@ -52,7 +52,7 @@
 ## ☾ Find me in the Darkness
 
  <p align="center">
-  <img src="Gothic Cats Beneath the Blood Moon.png" width="100%" alt="My black cat and tuxedo cat beneath a blood moon" />
+  <img src="Moonlit Gothic Cats and Castle.png" width="100%" alt="My black cat and tuxedo cat beneath a blood moon" />
 </p>
 
 <p align="center">
