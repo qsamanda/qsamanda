@@ -30,16 +30,16 @@
 </p>
 
 <h4 align="center">
-Hi ! I'm Amanda and I'm 20 years old !
+Greetings ! I'm Amanda and I'm 20 years old !
 </h4>
 <h4 align="center">
 I'm from Brazil and I'm a Software Engineering + Quality Management student !
 </h4>
 <h4 align="center">
-I'm interest in Data Analysis, Quality Assurance & Automation !
+I'm interested in Data Analysis, Quality Assurance & Automation !
 </h4>
 <h4 align="center">
-Learning Python !
+Learning Python & SQL !
 </h4>
 
 <p>
